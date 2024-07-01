@@ -1,0 +1,11 @@
+.wrapper {
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.title {
+  margin: 0;
+  margin-bottom: 15px;
+  font-size: 35px;
+  color: black;
+}

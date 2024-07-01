@@ -1,0 +1,31 @@
+.contactsWrapper {
+}
+
+.contactsTitle {
+  font-size: 30px;
+}
+
+.contactsList {
+  margin: 0 auto;
+}
+
+.contactElement {
+  flex-wrap: nowrap;
+  font-size: 22px;
+}
+
+.deleteBtn {
+  border: #8ca1adde 1px solid;
+  border-radius: 5px;
+  height: 25px;
+  font-size: 16px;
+  padding-block: 5px;
+  padding-inline: 10px;
+  margin-left: 20px;
+  background-color: white;
+}
+
+.deleteBtn:hover {
+  color: white;
+  background-color: gray;
+}
